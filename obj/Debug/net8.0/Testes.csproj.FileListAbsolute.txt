@@ -1,0 +1,14 @@
+C:\cursoNelioAlves\Testes\bin\Debug\net8.0\Testes.exe
+C:\cursoNelioAlves\Testes\bin\Debug\net8.0\Testes.deps.json
+C:\cursoNelioAlves\Testes\bin\Debug\net8.0\Testes.runtimeconfig.json
+C:\cursoNelioAlves\Testes\bin\Debug\net8.0\Testes.dll
+C:\cursoNelioAlves\Testes\bin\Debug\net8.0\Testes.pdb
+C:\cursoNelioAlves\Testes\obj\Debug\net8.0\Testes.GeneratedMSBuildEditorConfig.editorconfig
+C:\cursoNelioAlves\Testes\obj\Debug\net8.0\Testes.AssemblyInfoInputs.cache
+C:\cursoNelioAlves\Testes\obj\Debug\net8.0\Testes.AssemblyInfo.cs
+C:\cursoNelioAlves\Testes\obj\Debug\net8.0\Testes.csproj.CoreCompileInputs.cache
+C:\cursoNelioAlves\Testes\obj\Debug\net8.0\Testes.dll
+C:\cursoNelioAlves\Testes\obj\Debug\net8.0\refint\Testes.dll
+C:\cursoNelioAlves\Testes\obj\Debug\net8.0\Testes.pdb
+C:\cursoNelioAlves\Testes\obj\Debug\net8.0\Testes.genruntimeconfig.cache
+C:\cursoNelioAlves\Testes\obj\Debug\net8.0\ref\Testes.dll
